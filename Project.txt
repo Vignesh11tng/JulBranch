@@ -8,7 +8,7 @@ public class MyClass{
 		m1();
 	}
 
-
+	//Dont wirte like this, wirte inside the m1 method
 	public static void myBracnchChange(){
 		sysout("mybranch");
 	}
