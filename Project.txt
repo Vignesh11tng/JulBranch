@@ -8,4 +8,9 @@ public class MyClass{
 		m1();
 	}
 
+
+	public static void myBracnchChange(){
+		sysout("mybranch");
+	}
+
 }
